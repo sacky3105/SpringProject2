@@ -1,0 +1,10 @@
+package com.example.demo.constant;
+
+/**
+ * エラーメッセージID定数クラス
+ */
+public class ErrorMassageConst {
+
+	/**ログイン画面：入力内容誤り*/
+	public static final String LOGIN_WRONG_INPUT = "login.wrongInput";
+}
